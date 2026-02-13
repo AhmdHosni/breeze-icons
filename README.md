@@ -1,3 +1,2 @@
-# Breeze Extra
-Breeze extra icons for GNOME & KDE (default Plasma 5 icon theme)
-Temporary stop development...
+# Breeze icons
+Breeze icons modified for GNOME (default Plasma 5 icon theme)
