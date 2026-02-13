@@ -1,2 +1,2 @@
-# Breeze icons
-Breeze icons modified for GNOME (default Plasma 5 icon theme)
+# Breeze icons (dark)
+Breeze icons (dark version) modified for GNOME dark theme.
